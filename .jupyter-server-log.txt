@@ -156,3 +156,66 @@ RuntimeError: Cannot enter into task <Task pending coro=<HTTP1ServerConnection._
 TermSocket.open: 1
 not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 1
+[W 2021-10-24 15:53:12.857 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-24 15:53:12.857 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-24 15:53:12.858 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-24 15:53:12.858 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-24 15:53:12.858 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-24 15:53:12.858 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-24 15:53:12.858 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-24 15:53:12.858 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-10-24 15:53:12.858 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-10-24 15:53:12.858 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-24 15:53:12.858 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-24 15:53:12.858 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-10-24 15:53:12.872 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-10-24 15:53:12.872 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 15:53:12.891 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 15:53:12.895 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 15:53:12.896 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 15:53:12.896 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 15:53:12.896 NotebookApp] http://jupyter-ylbaby-2dmy-2dfirst-2dbinder-2dxwc2yb7p:8888/user/ylbaby-my-first-binder-xwc2yb7p/?token=...
+[I 15:53:12.896 NotebookApp]  or http://127.0.0.1:8888/user/ylbaby-my-first-binder-xwc2yb7p/?token=...
+[I 15:53:12.896 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 15:53:12.901 NotebookApp] No web browser found: could not locate runnable browser.
+[I 15:53:12.904 NotebookApp] 302 GET /user/ylbaby-my-first-binder-xwc2yb7p/ (10.0.22.13) 0.930000ms
+[I 15:53:13.609 NotebookApp] 302 GET /user/ylbaby-my-first-binder-xwc2yb7p/?token=kvd_u19HRaucSYsjvzRTmQ (47.243.191.25) 1.000000ms
+[I 15:53:13.823 NotebookApp] 301 GET /user/ylbaby-my-first-binder-xwc2yb7p/lab/?token=kvd_u19HRaucSYsjvzRTmQ (47.243.191.25) 1.610000ms
+[I 15:53:17.257 NotebookApp] 301 GET /user/ylbaby-my-first-binder-xwc2yb7p/static/favicons/favicon.ico (47.243.191.25) 0.510000ms
+[I 2021-10-24 15:53:21.333 LabApp] Build is up to date
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[W 15:53:22.043 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 15:53:23.029 NotebookApp] Kernel started: 6dc659ca-769e-4941-8394-a6b665f17dcd, name: python3
+[I 15:53:23.030 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 15:53:23.030 NotebookApp] Culling kernels even with connected clients
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 15:53:24.152 NotebookApp] 301 GET /user/ylbaby-my-first-binder-xwc2yb7p/static/favicons/favicon-busy-1.ico (47.243.191.25) 0.830000ms
+[I 15:57:23.395 NotebookApp] Saving file at /Untitled.ipynb
+[W 15:57:23.395 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 15:59:24.399 NotebookApp] Saving file at /Untitled.ipynb
+[W 15:59:24.400 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 16:09:29.407 NotebookApp] Saving file at /Untitled.ipynb
+[W 16:09:29.408 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 16:13:31.401 NotebookApp] Saving file at /Untitled.ipynb
+[W 16:13:31.402 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 16:15:31.998 NotebookApp] Saving file at /Untitled.ipynb
+[W 16:15:31.999 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 16:17:32.620 NotebookApp] Saving file at /Untitled.ipynb
+[W 16:17:32.621 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 16:19:33.402 NotebookApp] Saving file at /Untitled.ipynb
+[W 16:19:33.403 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 16:25:34.013 NotebookApp] Saving file at /Untitled.ipynb
+[W 16:25:34.014 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 16:29:35.849 NotebookApp] Saving file at /Untitled.ipynb
+[W 16:29:35.850 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 16:35:38.421 NotebookApp] Saving file at /Untitled.ipynb
+[W 16:35:38.422 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 16:37:39.023 NotebookApp] Saving file at /Untitled.ipynb
+[W 16:37:39.023 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 16:37:52.105 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 1
+[I 16:38:38.490 NotebookApp] Uploading file to /git常用操作.md
