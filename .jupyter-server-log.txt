@@ -321,3 +321,48 @@ Websocket closed
 TermSocket.open: 2
 not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 2
+[W 07:30:35.221 NotebookApp] Notebook 基础/string.ipynb is not trusted
+[I 07:30:36.243 NotebookApp] Kernel started: 7ca8ddb3-269f-4ac6-a82b-c210628526f0, name: python3
+[W 07:40:38.356 NotebookApp] Culling 'idle' kernel 'python3' (7ca8ddb3-269f-4ac6-a82b-c210628526f0) with 2 connections due to 600 seconds of inactivity.
+[I 07:40:38.357 NotebookApp] Kernel shutdown: 7ca8ddb3-269f-4ac6-a82b-c210628526f0
+[I 07:44:04.478 NotebookApp] Creating new notebook in /基础
+[I 07:44:41.293 NotebookApp] Saving file at /基础/string.ipynb
+[W 07:44:41.293 NotebookApp] Notebook 基础/string.ipynb is not trusted
+[I 07:46:05.630 NotebookApp] Saving file at /基础/input_and_output.ipynb
+[I 07:48:06.133 NotebookApp] Saving file at /基础/input_and_output.ipynb
+[I 07:50:06.619 NotebookApp] Saving file at /基础/input_and_output.ipynb
+[I 07:51:14.804 NotebookApp] Creating new file in /基础
+[I 07:52:07.098 NotebookApp] Saving file at /基础/input_and_output.ipynb
+[I 07:53:48.166 NotebookApp] Saving file at /基础/in.txt
+[I 07:54:30.148 NotebookApp] Creating new file in /基础
+[I 2021-10-26 07:57:45.036 LabApp] Build is up to date
+TermSocket.open: 2
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 2
+[W 07:57:45.822 NotebookApp] Notebook 基础/input_and_output.ipynb is not trusted
+[I 07:57:48.167 NotebookApp] Kernel started: eec571d8-2f59-41ca-8ee7-a01b0397d279, name: python3
+[I 07:57:49.635 NotebookApp] Starting buffering for eec571d8-2f59-41ca-8ee7-a01b0397d279:310a1002-9368-4893-bea6-69dac799aee9
+Websocket closed
+[I 07:59:46.470 NotebookApp] Saving file at /基础/input_and_output.ipynb
+[I 08:01:46.992 NotebookApp] Saving file at /基础/input_and_output.ipynb
+[W 08:09:38.357 NotebookApp] Culling 'idle' kernel 'python3' (eec571d8-2f59-41ca-8ee7-a01b0397d279) with 2 connections due to 656 seconds of inactivity.
+[I 08:09:38.363 NotebookApp] Kernel shutdown: eec571d8-2f59-41ca-8ee7-a01b0397d279
+[I 08:09:47.544 NotebookApp] Saving file at /基础/input_and_output.ipynb
+[I 08:11:48.146 NotebookApp] Saving file at /基础/input_and_output.ipynb
+[I 08:13:48.694 NotebookApp] Saving file at /基础/input_and_output.ipynb
+[I 08:15:49.333 NotebookApp] Saving file at /基础/input_and_output.ipynb
+[W 08:17:41.313 NotebookApp] delete /基础/out.txt
+[I 08:17:49.834 NotebookApp] Saving file at /基础/input_and_output.ipynb
+[I 08:21:50.318 NotebookApp] Saving file at /基础/input_and_output.ipynb
+Websocket closed
+[I 2021-10-26 08:22:00.932 LabApp] Build is up to date
+[W 08:22:02.327 NotebookApp] Notebook 基础/input_and_output.ipynb is not trusted
+TermSocket.open: 2
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 2
+[I 08:22:03.292 NotebookApp] Kernel started: 9775d028-5ca1-47a2-b095-cca957a92b19, name: python3
+[I 08:24:03.297 NotebookApp] Saving file at /requirements.txt
+[I 08:24:03.304 NotebookApp] Saving file at /基础/input_and_output.ipynb
+[I 08:28:49.594 NotebookApp] Saving file at /requirements.txt
+[I 08:28:50.513 NotebookApp] Saving file at /requirements.txt
+[W 08:30:19.284 NotebookApp] Replacing stale connection: 9775d028-5ca1-47a2-b095-cca957a92b19:0c3d89e2-edfa-4937-8478-ba3b5805bb7c
