@@ -704,3 +704,25 @@ TermSocket.open: 1
 not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 1
 [I 02:50:32.710 NotebookApp] Saving file at /basic/exception.ipynb
+[I 02:57:42.436 NotebookApp] Creating new notebook in /basic
+[I 02:57:43.804 NotebookApp] Kernel started: 6f444dd9-1e02-4f1b-8d7a-0f9e37ee606c, name: python3
+[I 02:59:43.576 NotebookApp] Saving file at /basic/function.ipynb
+[I 03:01:44.239 NotebookApp] Saving file at /basic/function.ipynb
+[I 03:07:44.894 NotebookApp] Saving file at /basic/function.ipynb
+[W 03:08:19.760 NotebookApp] Culling 'idle' kernel 'python3' (b01700d9-04fe-47ad-8cfd-b3156180b915) with 1 connections due to 633 seconds of inactivity.
+[I 03:08:19.760 NotebookApp] Kernel shutdown: b01700d9-04fe-47ad-8cfd-b3156180b915
+[W 03:08:19.964 NotebookApp] Culling 'idle' kernel 'python3' (6f444dd9-1e02-4f1b-8d7a-0f9e37ee606c) with 1 connections due to 634 seconds of inactivity.
+[I 03:08:19.965 NotebookApp] Kernel shutdown: 6f444dd9-1e02-4f1b-8d7a-0f9e37ee606c
+[I 03:09:45.525 NotebookApp] Saving file at /basic/function.ipynb
+[I 03:11:21.059 NotebookApp] Kernel started: d8ea39cf-68a9-4d09-9de1-8addf70d8362, name: python3
+[I 03:11:46.216 NotebookApp] Saving file at /basic/function.ipynb
+[I 03:13:46.894 NotebookApp] Saving file at /basic/function.ipynb
+[I 03:19:47.600 NotebookApp] Saving file at /basic/function.ipynb
+[I 03:21:48.321 NotebookApp] Saving file at /basic/function.ipynb
+[I 03:23:49.009 NotebookApp] Saving file at /basic/function.ipynb
+[W 03:33:19.759 NotebookApp] Culling 'idle' kernel 'python3' (d8ea39cf-68a9-4d09-9de1-8addf70d8362) with 1 connections due to 619 seconds of inactivity.
+[I 03:33:19.760 NotebookApp] Kernel shutdown: d8ea39cf-68a9-4d09-9de1-8addf70d8362
+[I 03:39:20.171 NotebookApp] New terminal with automatic name: 2
+TermSocket.open: 2
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 2
