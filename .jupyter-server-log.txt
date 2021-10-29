@@ -649,3 +649,58 @@ TermSocket.open: 1
 not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 1
 [I 02:21:19.936 NotebookApp] Saving file at /basic/condition_and_circulation.ipynb
+[W 2021-10-29 02:29:58.734 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-29 02:29:58.734 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-29 02:29:58.734 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-29 02:29:58.734 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-29 02:29:58.734 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-29 02:29:58.734 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-29 02:29:58.734 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-29 02:29:58.734 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-10-29 02:29:58.734 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-10-29 02:29:58.734 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-29 02:29:58.734 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-10-29 02:29:58.734 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-10-29 02:29:58.744 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-10-29 02:29:58.744 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 02:29:58.755 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 02:29:58.756 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 02:29:58.757 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 02:29:58.757 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 02:29:58.757 NotebookApp] http://jupyter-ylbaby-2dmy-2dfirst-2dbinder-2dwgk92osq:8888/user/ylbaby-my-first-binder-wgk92osq/?token=...
+[I 02:29:58.757 NotebookApp]  or http://127.0.0.1:8888/user/ylbaby-my-first-binder-wgk92osq/?token=...
+[I 02:29:58.757 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 02:29:58.762 NotebookApp] No web browser found: could not locate runnable browser.
+[I 02:30:00.351 NotebookApp] 302 GET /user/ylbaby-my-first-binder-wgk92osq/ (10.0.22.13) 0.940000ms
+[I 02:30:01.384 NotebookApp] 302 GET /user/ylbaby-my-first-binder-wgk92osq/?token=J1fUX-IpSCKu5WxQUMyGmA (182.119.255.234) 0.750000ms
+[I 02:30:01.721 NotebookApp] 301 GET /user/ylbaby-my-first-binder-wgk92osq/lab/?token=J1fUX-IpSCKu5WxQUMyGmA (182.119.255.234) 1.490000ms
+[I 02:30:07.054 NotebookApp] 301 GET /user/ylbaby-my-first-binder-wgk92osq/static/favicons/favicon.ico (182.119.255.234) 0.720000ms
+[I 2021-10-29 02:30:12.786 LabApp] Build is up to date
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[W 02:30:17.653 NotebookApp] Notebook basic/condition_and_circulation.ipynb is not trusted
+[I 02:30:19.757 NotebookApp] Kernel started: 19399498-8956-4017-848d-8c46fc66de30, name: python3
+[I 02:30:19.758 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 02:30:19.758 NotebookApp] Culling kernels even with connected clients
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 02:30:21.866 NotebookApp] Starting buffering for 19399498-8956-4017-848d-8c46fc66de30:90d7b057-952b-42b5-a19b-d826438cdcc4
+[I 02:30:22.855 NotebookApp] 301 GET /user/ylbaby-my-first-binder-wgk92osq/static/favicons/favicon-busy-1.ico (182.119.255.234) 0.550000ms
+[I 02:30:27.645 NotebookApp] Creating new notebook in /basic
+[I 02:30:29.493 NotebookApp] Kernel started: b01700d9-04fe-47ad-8cfd-b3156180b915, name: python3
+[I 02:30:32.542 NotebookApp] Kernel started: 404c5872-08bb-4a7f-b917-0624e3e83e7d, name: python3
+[I 02:30:35.299 NotebookApp] Starting buffering for 404c5872-08bb-4a7f-b917-0624e3e83e7d:e8355b57-b630-4202-910e-3613d061b106
+[I 02:32:29.380 NotebookApp] Saving file at /basic/exception.ipynb
+[I 02:34:30.038 NotebookApp] Saving file at /basic/exception.ipynb
+[I 02:36:30.708 NotebookApp] Saving file at /basic/exception.ipynb
+[I 02:38:31.344 NotebookApp] Saving file at /basic/exception.ipynb
+[W 02:41:19.759 NotebookApp] Culling 'idle' kernel 'python3' (19399498-8956-4017-848d-8c46fc66de30) with 2 connections due to 643 seconds of inactivity.
+[I 02:41:19.760 NotebookApp] Kernel shutdown: 19399498-8956-4017-848d-8c46fc66de30
+[W 02:41:19.963 NotebookApp] Culling 'idle' kernel 'python3' (404c5872-08bb-4a7f-b917-0624e3e83e7d) with 0 connections due to 645 seconds of inactivity.
+[I 02:41:19.964 NotebookApp] Kernel shutdown: 404c5872-08bb-4a7f-b917-0624e3e83e7d
+[I 02:48:32.042 NotebookApp] Saving file at /basic/exception.ipynb
+[I 02:48:56.600 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 1
+[I 02:50:32.710 NotebookApp] Saving file at /basic/exception.ipynb
