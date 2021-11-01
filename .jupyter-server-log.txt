@@ -1015,3 +1015,10 @@ TermSocket.open: Opened 1
 [I 05:56:34.046 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
 [I 05:58:34.525 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
 [I 06:00:35.030 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
+[I 06:10:35.528 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
+[I 06:12:36.032 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
+[I 06:14:36.516 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
+[I 06:16:37.002 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
+[I 06:18:37.488 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
+[W 06:27:59.563 NotebookApp] Culling 'idle' kernel 'python3' (7402a839-2ac7-43ac-90e9-5ea1c2da2b6a) with 1 connections due to 614 seconds of inactivity.
+[I 06:27:59.565 NotebookApp] Kernel shutdown: 7402a839-2ac7-43ac-90e9-5ea1c2da2b6a
