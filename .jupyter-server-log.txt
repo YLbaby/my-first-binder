@@ -944,3 +944,62 @@ TermSocket.open: Opened 1
 [I 03:47:28.613 NotebookApp] Saving file at /basic/anonymous_function.ipynb
 [I 03:49:29.189 NotebookApp] Saving file at /basic/anonymous_function.ipynb
 [I 03:51:29.759 NotebookApp] Saving file at /basic/anonymous_function.ipynb
+[W 2021-11-01 05:02:47.153 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-11-01 05:02:47.153 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-11-01 05:02:47.153 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-11-01 05:02:47.153 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-11-01 05:02:47.153 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-11-01 05:02:47.153 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-11-01 05:02:47.153 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-11-01 05:02:47.153 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-11-01 05:02:47.153 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-11-01 05:02:47.153 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-11-01 05:02:47.153 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-11-01 05:02:47.153 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-11-01 05:02:47.163 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-11-01 05:02:47.163 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 05:02:47.176 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 05:02:47.178 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 05:02:47.179 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 05:02:47.179 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 05:02:47.179 NotebookApp] http://jupyter-ylbaby-2dmy-2dfirst-2dbinder-2dacq796cm:8888/user/ylbaby-my-first-binder-acq796cm/?token=...
+[I 05:02:47.179 NotebookApp]  or http://127.0.0.1:8888/user/ylbaby-my-first-binder-acq796cm/?token=...
+[I 05:02:47.179 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 05:02:47.184 NotebookApp] No web browser found: could not locate runnable browser.
+[I 05:02:49.261 NotebookApp] 302 GET /user/ylbaby-my-first-binder-acq796cm/ (10.0.2.13) 0.850000ms
+[I 05:02:49.946 NotebookApp] 302 GET /user/ylbaby-my-first-binder-acq796cm/?token=3pkKo4y4TCaa-Ymq-lfezg (47.243.191.25) 0.730000ms
+[I 05:02:50.167 NotebookApp] 301 GET /user/ylbaby-my-first-binder-acq796cm/lab/?token=3pkKo4y4TCaa-Ymq-lfezg (47.243.191.25) 1.340000ms
+[I 05:02:53.985 NotebookApp] 301 GET /user/ylbaby-my-first-binder-acq796cm/static/favicons/favicon.ico (47.243.191.25) 0.480000ms
+[I 2021-11-01 05:02:56.760 LabApp] Build is up to date
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[W 05:02:58.368 NotebookApp] Notebook basic/anonymous_function.ipynb is not trusted
+[W 05:02:58.446 NotebookApp] Notebook basic/dict_and_set.ipynb is not trusted
+Exception in callback <TaskStepMethWrapper object at 0x7f1ada26e110>()
+handle: <Handle <TaskStepMethWrapper object at 0x7f1ada26e110>()>
+Traceback (most recent call last):
+  File "/srv/conda/envs/notebook/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending coro=<MappingKernelManager.start_kernel() running at /srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/kernelmanager.py:158> cb=[IOLoop.add_future.<locals>.<lambda>() at /srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/ioloop.py:688]> while another task <Task pending coro=<MappingKernelManager.start_kernel() running at /srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/kernelmanager.py:176> cb=[IOLoop.add_future.<locals>.<lambda>() at /srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/ioloop.py:688]> is being executed.
+Task was destroyed but it is pending!
+task: <Task pending coro=<RequestHandler._execute() done, defined at /srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/web.py:1660> wait_for=<Future pending cb=[coroutine.<locals>.wrapper.<locals>.<lambda>() at /srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/gen.py:251, <TaskWakeupMethWrapper object at 0x7f1ad9dbd4d0>()]> cb=[_HandlerDelegate.execute.<locals>.<lambda>() at /srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/web.py:2326]>
+/srv/conda/envs/notebook/lib/python3.7/site-packages/jupyter_client/ioloop/manager.py:16: RuntimeWarning: coroutine 'MappingKernelManager.start_kernel' was never awaited
+  def wrapped(self, *args, **kwargs):
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+Task was destroyed but it is pending!
+task: <Task pending coro=<MappingKernelManager.start_kernel() running at /srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/kernelmanager.py:158> cb=[IOLoop.add_future.<locals>.<lambda>() at /srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/ioloop.py:688]>
+[I 05:02:59.562 NotebookApp] Kernel started: 753c467c-f5ed-48dc-a913-c68d46e2047f, name: python3
+[I 05:02:59.562 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 05:02:59.562 NotebookApp] Culling kernels even with connected clients
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 05:03:00.868 NotebookApp] 301 GET /user/ylbaby-my-first-binder-acq796cm/static/favicons/favicon-busy-1.ico (47.243.191.25) 0.520000ms
+[I 05:11:59.624 NotebookApp] Kernel started: 7fbce64f-a04d-41b3-8ec1-2175987f20fc, name: python3
+[I 05:12:04.952 NotebookApp] Starting buffering for 7fbce64f-a04d-41b3-8ec1-2175987f20fc:b96f5d07-5331-4455-a0b6-6fd22d394136
+[W 05:12:09.265 NotebookApp] Notebook basic/anonymous_function.ipynb is not trusted
+[I 05:14:09.874 NotebookApp] Saving file at /basic/anonymous_function.ipynb
+[W 05:14:09.874 NotebookApp] Notebook basic/anonymous_function.ipynb is not trusted
+[I 05:14:41.139 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 1
