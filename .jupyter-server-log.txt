@@ -925,3 +925,8 @@ TermSocket.open: Opened 1
 [I 02:37:08.905 NotebookApp] Saving file at /basic/anonymous_function.ipynb
 [W 02:40:19.943 NotebookApp] Notebook basic/dict_and_set.ipynb is not trusted
 [I 02:40:20.977 NotebookApp] Kernel started: e860db61-4059-4f08-8c29-4d20dbf9dc7f, name: python3
+[I 02:50:20.831 NotebookApp] Saving file at /basic/dict_and_set.ipynb
+[W 02:50:20.832 NotebookApp] Notebook basic/dict_and_set.ipynb is not trusted
+[I 02:52:21.555 NotebookApp] Saving file at /basic/dict_and_set.ipynb
+[W 02:52:21.556 NotebookApp] Notebook basic/dict_and_set.ipynb is not trusted
+[I 02:53:09.497 NotebookApp] Saving file at /basic/anonymous_function.ipynb
