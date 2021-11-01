@@ -1003,3 +1003,15 @@ task: <Task pending coro=<MappingKernelManager.start_kernel() running at /srv/co
 TermSocket.open: 1
 not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 1
+[I 05:16:10.388 NotebookApp] Saving file at /basic/anonymous_function.ipynb
+[W 05:16:10.389 NotebookApp] Notebook basic/anonymous_function.ipynb is not trusted
+[I 05:16:12.042 NotebookApp] Starting buffering for 7fbce64f-a04d-41b3-8ec1-2175987f20fc:efbff3ea-ab06-47ad-94fe-dfeb1288fab8
+[W 05:22:59.563 NotebookApp] Culling 'idle' kernel 'python3' (753c467c-f5ed-48dc-a913-c68d46e2047f) with 1 connections due to 653 seconds of inactivity.
+[I 05:22:59.564 NotebookApp] Kernel shutdown: 753c467c-f5ed-48dc-a913-c68d46e2047f
+[W 05:26:59.566 NotebookApp] Culling 'idle' kernel 'python3' (7fbce64f-a04d-41b3-8ec1-2175987f20fc) with 0 connections due to 648 seconds of inactivity.
+[I 05:26:59.567 NotebookApp] Kernel shutdown: 7fbce64f-a04d-41b3-8ec1-2175987f20fc
+[I 05:54:33.065 NotebookApp] Creating new notebook in /basic
+[I 05:54:35.534 NotebookApp] Kernel started: 7402a839-2ac7-43ac-90e9-5ea1c2da2b6a, name: python3
+[I 05:56:34.046 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
+[I 05:58:34.525 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
+[I 06:00:35.030 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
