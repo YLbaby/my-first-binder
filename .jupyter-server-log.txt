@@ -899,3 +899,29 @@ TermSocket.open: Opened 1
 [W 02:20:43.199 NotebookApp] Notebook basic/function.ipynb is not trusted
 [I 02:21:42.447 NotebookApp] Starting buffering for fe2b3263-9088-469f-9cad-988e9171fc1d:5ac71c43-db22-482f-afc7-985e6af122a7
 [I 02:21:44.994 NotebookApp] Kernel started: a83f5908-0244-440c-96cb-b5140e6b660d, name: python3
+[I 02:22:44.489 NotebookApp] Saving file at /basic/function.ipynb
+[W 02:22:44.490 NotebookApp] Notebook basic/function.ipynb is not trusted
+[I 02:23:04.469 NotebookApp] Creating new notebook in /basic
+[I 02:23:07.196 NotebookApp] Kernel started: 41abf047-9e3f-4bc8-98a8-d984ea8a876f, name: python3
+[I 02:23:08.653 NotebookApp] Starting buffering for a83f5908-0244-440c-96cb-b5140e6b660d:fcdf62c0-e6f0-4dd9-8cac-242e730a8722
+[I 02:23:11.396 NotebookApp] Starting buffering for d1f79f55-7b00-4399-90d5-c8300b62b00d:06b413e3-3c5d-4b2c-b032-7608e741ddfc
+[I 02:23:12.357 NotebookApp] Starting buffering for 9e861d32-9e5d-459c-a871-a7df41720aeb:5201d3f0-86ed-4ddc-8562-e18dce0bc407
+[I 02:25:05.569 NotebookApp] Saving file at /basic/anonymous_function.ipynb
+[I 02:27:06.109 NotebookApp] Saving file at /basic/anonymous_function.ipynb
+[I 02:29:06.669 NotebookApp] Saving file at /basic/anonymous_function.ipynb
+[I 02:31:07.206 NotebookApp] Saving file at /basic/anonymous_function.ipynb
+[W 02:31:42.303 NotebookApp] Culling 'idle' kernel 'python3' (fe2b3263-9088-469f-9cad-988e9171fc1d) with 0 connections due to 600 seconds of inactivity.
+[I 02:31:42.306 NotebookApp] Kernel shutdown: fe2b3263-9088-469f-9cad-988e9171fc1d
+[I 02:33:07.790 NotebookApp] Saving file at /basic/anonymous_function.ipynb
+[W 02:33:42.302 NotebookApp] Culling 'idle' kernel 'python3' (d1f79f55-7b00-4399-90d5-c8300b62b00d) with 0 connections due to 631 seconds of inactivity.
+[I 02:33:42.304 NotebookApp] Kernel shutdown: d1f79f55-7b00-4399-90d5-c8300b62b00d
+[W 02:33:42.511 NotebookApp] Culling 'idle' kernel 'python3' (9e861d32-9e5d-459c-a871-a7df41720aeb) with 0 connections due to 630 seconds of inactivity.
+[I 02:33:42.512 NotebookApp] Kernel shutdown: 9e861d32-9e5d-459c-a871-a7df41720aeb
+[W 02:33:42.718 NotebookApp] Culling 'idle' kernel 'python3' (8e2628ef-af62-4c28-9bca-181fb430ffe8) with 1 connections due to 633 seconds of inactivity.
+[I 02:33:42.719 NotebookApp] Kernel shutdown: 8e2628ef-af62-4c28-9bca-181fb430ffe8
+[W 02:33:42.923 NotebookApp] Culling 'idle' kernel 'python3' (a83f5908-0244-440c-96cb-b5140e6b660d) with 0 connections due to 634 seconds of inactivity.
+[I 02:33:42.925 NotebookApp] Kernel shutdown: a83f5908-0244-440c-96cb-b5140e6b660d
+[I 02:35:08.351 NotebookApp] Saving file at /basic/anonymous_function.ipynb
+[I 02:37:08.905 NotebookApp] Saving file at /basic/anonymous_function.ipynb
+[W 02:40:19.943 NotebookApp] Notebook basic/dict_and_set.ipynb is not trusted
+[I 02:40:20.977 NotebookApp] Kernel started: e860db61-4059-4f08-8c29-4d20dbf9dc7f, name: python3
