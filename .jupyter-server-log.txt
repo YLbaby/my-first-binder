@@ -1022,3 +1022,24 @@ TermSocket.open: Opened 1
 [I 06:18:37.488 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
 [W 06:27:59.563 NotebookApp] Culling 'idle' kernel 'python3' (7402a839-2ac7-43ac-90e9-5ea1c2da2b6a) with 1 connections due to 614 seconds of inactivity.
 [I 06:27:59.565 NotebookApp] Kernel shutdown: 7402a839-2ac7-43ac-90e9-5ea1c2da2b6a
+[I 06:37:12.963 NotebookApp] Kernel started: 28c556b7-5a4b-4509-9432-98cfcb3c42bb, name: python3
+[I 06:37:27.127 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
+[I 06:39:27.641 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
+[I 06:41:28.131 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
+[I 06:43:28.643 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
+[I 06:45:29.131 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
+[I 06:47:29.630 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
+[I 06:49:30.145 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
+[I 06:53:30.669 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
+[W 06:54:59.565 NotebookApp] Culling 'idle' kernel 'python3' (28c556b7-5a4b-4509-9432-98cfcb3c42bb) with 1 connections due to 650 seconds of inactivity.
+[I 06:54:59.566 NotebookApp] Kernel shutdown: 28c556b7-5a4b-4509-9432-98cfcb3c42bb
+[I 06:55:31.224 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
+[I 06:59:31.748 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
+[I 07:01:14.337 NotebookApp] Kernel started: c230bdfb-0db8-4afd-b79a-f99c79af8d19, name: python3
+[I 07:01:32.238 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
+[I 07:03:32.917 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
+[I 07:07:47.656 NotebookApp] Kernel shutdown: c230bdfb-0db8-4afd-b79a-f99c79af8d19
+[I 07:07:48.186 NotebookApp] Kernel started: f177ee73-9663-4d48-8495-f595723414ce, name: python3
+[I 07:09:33.463 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
+[I 07:11:33.963 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
+[I 07:13:34.492 NotebookApp] Saving file at /basic/object_oriented_programming.ipynb
